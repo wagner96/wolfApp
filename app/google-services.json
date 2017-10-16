@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840904885292",
+    "firebase_url": "https://wolfapp-f2e74.firebaseio.com",
+    "project_id": "wolfapp-f2e74",
+    "storage_bucket": "wolfapp-f2e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840904885292:android:35cf10bb95b77a86",
+        "android_client_info": {
+          "package_name": "com.example.manoel.wolfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840904885292-37o3orbgg2arenmbfbf1t44s3aiqh7fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZ6W-8vCRede5JFu64VFjlmvoxMSazS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

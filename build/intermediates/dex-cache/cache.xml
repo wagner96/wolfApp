@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_18187f9bd369964aaf0e95f134c87257cce870d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\3b6f28df5e7e59b66ae4fab69fff9b86686cca4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdfb856c5eb0bd3e93d5f1edc16e3b7144ce03af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\2755bd5d737cb40e1db05f3bd63638e0eb06284d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e1185bdde08224bf1275f6b4f9771df5e738e1b">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c5938489c035f834b76e976674055e5778002e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\65a348aae28188f3c762872cc2487a6aa99872de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9c49f7ed7287e60a0c222f32b0022c40fe17750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6474f1d644498727cae7fdb6c4ecc33213843465">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e6e3daf51b04fad267909b97c91b189fc55f46c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\b748b2955e44c3bccff36834e36a9ed5b6088068\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97fb40924e83775c91374180494801cb022aa008">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e2c9cf97368f95169714d1199372b2ed96d5961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-20.0_fcdca801954a136c7d597fb10670e101d893fa3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_01ed7f07505d5df4a4484b25bebad897342bdc9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\5902f4ffdf2be188ad681d60c0ba16f2ca95a2d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0c149638621cd5155779e241b5b6e44cc0a7930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\541d44ccd10dd9971f7b2b66f14a6c44bd9050cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a4eaaebbf8013af99511a48371f8cef06025960">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca0af14949fd3f290d93024a68cf476eb1c930e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\d92cf0faf3c784598668af9685cf02c36444d361\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c4a5fe00c1a8c2f64d175cd055140b133ca6700">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19330810b01618651a3342eb557bfeb4bf03c3e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\f75adaad23c8e0bcf399a3c0260cc9a4a17bd756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df40ac0f111cfa0c9db825f5b0dfb672b0ea055b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_299f779c67c04473ea05ee2a24c1ed2550de4d2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\6ec1b626c51ac20242312e5fc62a4f6a66bdc7f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="782d63e5456a49596ef322036691e25c60de3b83">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_078ab45943714cf820a89cac62c45e99955cd6df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\3f3bf90459a45e94d21506aadd431ff9fe0d8e48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c82e67c7b1e82801549dc45ff5097535ea26ee2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\c8b18f0cc63b36525c782c954cc7aa921aad5085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5d1a5c33144f207810e851fba6c1533372bb935">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14eb9c9bf202465eff51329d3f264c95c2d6fd20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\35e7384d393e5ad0a2c42227e5c044399d30745b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc0d71e8828a145ca4aebde8f6897608070f8863">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bad3181c9d47a3406e9e8c95680e0400793ecba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\1d18c53e343b4d86b3d9762c7999fda12319da13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6e94dfcb39f604ff750880304e85511d420859e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\efa1e5ee01f084ebecda67fa40e864d6dc7bc819\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7523c97aa1add49359693dac5de09123e6825d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\c36179835eb6de11970317e29621cbeaf39b4d4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4750c76bb169d0d620b9d0c7f82427c961dc88e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\a4a9587d62e02651c96195a8a6a686829eb7eeb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f89c58dda3f68ed9d90e2afeaba642b2791d9a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\5caf5768098ac212aef307aeb7889a080b0e64e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00d8b1db49c6b3ccb71dcc6468faf0d7c5f1824c">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2d8a70054e3e0d4b39e812ecee9e63dbde964b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\41e96546ea303b456f0916cc00e6fdf566b380fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_914d336fa3b5df38dd58ec24fc3036c3ca9f344a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\c8b1385e86eaa0ccde3049e600606ebeb83a1bb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09a08f182e4f7fa0db334391284c596f6b4cc5fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\28ed457d8d5cf61a354c9214da7181e19aa158dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="48fe715b1ee9f4c8c7899d0eddcfa8d27f7287e5">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a65c07a1a11957e239d7a2b8a086c063b4301c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\93218788fab491f1a524522e616d4e91f6b91d8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c94ac96d84641f2326091bbcf79e8637600b9d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\7e1b070732ad855c9652972db7884e96256d4a92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_451d66ba5333426a0452803bbddae2082d77b03d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\9f5a51f860f69e0e2bf64e4fc47da47d7c80114c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90c341c84343368a4521996c6fcb9412214a4619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\5783e93dc93b3edd130683a8c147d3ecd66a544b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aab7915da1652c6c99b62eab2790095a92e559f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.2\20f6463eb19ac61960c5d91a094c2f4f0727dc2e\okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.2_faf22d26c680d55131f4d6d3655dc76ecc363bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\5929cfef29cbdff12f2e9d8a28023488efb5cd49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d630d10f07b228c48fdcfa592df9cb6d425243e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\c2026780eff81f5cabd1faa1888066b0cd1d2b31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e4efed89c18cda5bbc2309efe84bb4b67e1ef239">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_364f59d9b06ece35362797938bf17eb29b70f369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_18187f9bd369964aaf0e95f134c87257cce870d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\17ca88dccb6394d7828abef38e243d2885f06eee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ae9f49918eed062ee1d8a53ec69cc30ab8efc45">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28a3bf1172b9ac033f83ed3685ebd5b9ee0597eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\e6df781a083b9867b3975807899cb20e1d337e90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc403df0db26706833cf08754fac4180f218ad86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\9594f2ed7368ff3d1c1b0f7ca5322e6f335a6765\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cc06b98a2f76e52a77029054343c2c1b0f809a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\207637a6e1bdf1a06a76b98d1a91aa0db0d838e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bdf5cd702d3d860cd85783a776c26605f557882">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c332ec2d77ff781926ca7fd36101fe59a8303112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\a155329a037133b32066582553d426a111e8db10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddef53ed303289dec0b50dc026e39187d9fff4cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\2e9a3ca3800f46725e1e6786f4f04accb93b9e9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9dba261f704255d66c5d2ae85cb695a80d9692c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\ef45861c0b5f975b3accb07bf88981cff25f78dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c3ed3995623fc73a9f0eef5c3871b9408cda20d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\ef44ec07b4ba850a02be882217c05f70152ee77a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_802b1cedcd12e6f2b66cdc0a54851c4376db526b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\e01277a9a936d4b9b799818eaeca8c7a714c8238\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b24e03e860e824004f9617494d0325e481958661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\80cd5d51183fd6dba0e44516d5cf5b68d163b572\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f5f3161134b8023a76fd9fa82f23696f1ea5f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\1e595d186a69bd5a77cb391436543ea898e5220a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01e21f73c17353a2b84172f8cbfce7d3d8cbe7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\2b745ddc7b3abd191c987bc9c3626bd5c97564f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7e735784c9853573e457db7a841ab4a35c41ee7">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_218401b400843b141606b8836f1b55181e020e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\a4bcc5f941799721477797dbe730fd1b52f48f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c49f6b368fb4507192e3a6409e4760f1cc7212cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_7705e045e05c90ba091e3143f2448b648c31cfb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\c19e35a9743e2dd531424e90f9e685ac78be85a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c588d92c3f7d83d64da09238cf8c09b92b9b3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_2264ec8c129af72dab5b97e33374006499ad3e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0-beta1\4205dd8c33ada1468ab377afff0be95304ef72a\constraint-layout-solver-1.1.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04205dd8c33ada1468ab377afff0be95304ef72a">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.0-beta1_f2d69ad73c03333a48d163bcdd8ae8cecf50fee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\d7c128030980944ce75b03a30fa0024b56750fe5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5753660caa486676aacf05857930d76589a09af9">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5bdffa7bd65cf8b94bc0415f3c778ac0044d953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\7187f7f70454adde8227ac9c881107e1d23bce2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6780814891a60358384b3ae61f6c1bccf3605d10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\05713346fef81a1ce986791da77dafe1ce1b3030\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de3eb4bc4882f8d87039e7d742a6095ce4730cff">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e650bb0e1481dc7ee1f3ef56fb57992425d2cd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\1e45c159cf42e377c84eba136e5a45c029f3597b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25fc95b83bb4353cfb2ccc831c961b811f265d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\d374dd0099cff87e8827be590fa1e00fb3c444d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4e2c1cf3aa26eff7e8bc974a22ea7c7cb6862daa">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b2c8486e3ac11a6be649226b3ac90ef403fbe85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\e2e6a5e755a42e0484e903d3b781bb39144962eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba98864d70e8e27b3109c76c5418d41962eb952d">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_124d4633e5c20bee1e4b6185efb413a667fc67fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4d22757e1faffbdcbb7d3c473003bec6bef49b5">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e6e3daf51b04fad267909b97c91b189fc55f46c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\a1d3f9bb4dc4de425fcd1dbeaabd4bb261e6cf28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8d256d986bd95c7f9b31e7db9aa5dac73dbe1d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\10a5413245b6936ba2a194d259362e58f2ac3e91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1fa63f06110477c59f154f96b7660c6bad9cf04">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_007833fbca9c6d1f55c72e3916577bc6617216f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\223538634f796fa98806201eba232182984faeba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd6a3b6e3c7c584a47479070fb9292a6c7468657">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ad6f5f743efccc6950bbda91013fb447552f781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\9b25e98426f9d4f52fd30db2bef2a3a4ae08178b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="003f59e51b07a10a2a7a0bd33c9eb0393c33b502">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bc6f8b5e7f4447a2d57e538fd77830cee94c752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoel\.android\build-cache\a0982ff7a5aa2823bbce7412bc82b02fb4996ac3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Manoel\AndroidStudioProjects\WolfApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6681d0918b1509c802c7299067f1c354cc790fb0\classes.dex" />
+    </item>
+
+</items>
